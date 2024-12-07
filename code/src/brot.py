@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-BROT (Bilevel Routing on networks with Optimal Transport) -- https://github.com/aleable/BROT
-
-Contributors:
-    Alessandro Lonardi
-    Caterina De Bacco
+BROT (Bilevel Routing on networks with Optimal Transport) 
+fit() contains the Optimat Transport Dyanmics
 """
 
 import sys

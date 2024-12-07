@@ -1,6 +1,3 @@
-![alt text](https://github.com/aleable/BROT/blob/main/misc/logo.svg)
-
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ## Implementation details
 
@@ -120,7 +117,3 @@ In order serialize heavier outputs, with the time-evolution of the main variable
 ## Usage examples
 
 A usage example of BROT can be found in ```dashboard.ipynb```.
-
-## Contacts
-
-For any issues or questions, feel free to contact us sending an email to <a href="alessandro.lonardi@tuebingen.mpg.de">alessandro.lonardi@tuebingen.mpg.de</a>.

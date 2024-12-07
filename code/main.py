@@ -63,8 +63,9 @@ def main():
         "-ofolder",
         "--output_folder",
         type=str,
-        default="./data/output/",
+        default="./data/output/", 
     )
+    pars.add_argument('-input_data', type=str, default="./data/input/Metro_Interstate_Traffic_Volume.csv")
     pars.add_argument("-V", "--VERBOSE", type=lambda x: bool(int(x)), default=False)
     pars.add_argument("-Vtime", "--V_time", type=lambda x: bool(int(x)), default=False)
     pars.add_argument("-tsev", "--ts_exp_verb", type=int, default=1)
